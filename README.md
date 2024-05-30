@@ -37,6 +37,8 @@ Next you will be ask for Login which you just signup for Jenkins.
 
 Thats it for the Jenkins Installation!!!!
 
+Now, open new terminal and don't close or stop the terminal where the Jenkins.war file is running.
+
 **Docker Installation :**
 
     sudo dnf check-update    #update the system it need 
