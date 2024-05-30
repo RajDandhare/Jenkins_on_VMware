@@ -6,7 +6,7 @@ _This project will show how to run Jenkins on VMware and run containers using Do
 
 > VM's Specification: <br /> Cores : 2 <br /> RAM : 4Gb <br /> OS : Rocky Linux 9
 
-### **Step 1 :** Installing Jenkins and Docker and Git on VMware
+### **Step 1 :** Installing Jenkins, Docker, and Git on VMware
 
 **Jenkins Installation :** 
 
@@ -30,7 +30,7 @@ Now open the VM's Browser and search :-
 It will ask you for the CODE that we just copyed, paste it.
 <br /><br />![jenkins-askscode](/../main/Pics/jenkins-askscode.png)<br /><br />
 
-After that it will for Plugin for Jenkins, Just select suggested plugins it will start the installation. Then you will be ask for signup on Jenkins.
+After that it will ask Plugins for Jenkins, Just select suggested plugins it will start the installation. Then you will be ask for signup on Jenkins.
 Next you will be ask for Login which you just signup for Jenkins.
 
 <br /><br />![jenkins-dashboard](/../main/Pics/jenkins-dashboard.png)
