@@ -11,7 +11,7 @@ _This project will show how to run Jenkins on VMware and run containers using Do
 **Jenkins Installation :** 
 
     sudo mkdir /jenkins
-    sudo wget https://updates.jenkins.io/download/war/2.459/jenkins.war -P /jenkins # [must be latest]
+    sudo wget [https://updates.jenkins.io/download/war/2.459/jenkins.war](https://updates.jenkins.io/latest/jenkins.war) -P /jenkins # [must be latest]
 
 You need Java openjdk to run the jenkins file. [must be latest]
 
