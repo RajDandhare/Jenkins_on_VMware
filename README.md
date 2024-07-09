@@ -15,6 +15,7 @@ _This project will show how to run Jenkins on VMware and run containers using Do
 
 You need Java openjdk to run the jenkins file. [must be latest]
 
+    sudo yum erase java*         # previous version of java must be removed 
     sudo yum -y install java-21-openjdk-demo.x86_64
 
 Now run the file using command 
